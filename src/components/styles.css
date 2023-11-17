@@ -1,0 +1,28 @@
+.fs32{
+  font-size: 32px;
+}
+.font_size {
+  font-size: 16px !important;
+}
+
+.text_color {
+  color: #ffffff !important;
+}
+.text_align {
+  text-align: center;
+}
+
+
+
+.btn {
+  background-color: white !important;
+  width: 600px !important;
+  height: 50px !important;
+  margin-top: 30px !important;
+  border-radius: 10px !important;
+  font-weight: 16px !important;
+  text-transform: none !important;
+  background-color: #6741d9 !important;
+  color: #ffffff !important;
+  font-size: 16px !important;
+}

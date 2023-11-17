@@ -1,12 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import SignInPage from "./components/SignInPage";
+import "./App.css";
+import GraphPage from "./components/GraphPage";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      STart
+    <div className="container">
+      {/* <SignInPage /> */}
+        <GraphPage />
     </div>
   );
-}
+};
 
 export default App;
